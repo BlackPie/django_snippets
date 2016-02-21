@@ -1,0 +1,1 @@
+This snippet shows how to pass user to user related(in this case profile model) model form.
