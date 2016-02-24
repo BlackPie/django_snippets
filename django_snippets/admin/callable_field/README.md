@@ -1,0 +1,1 @@
+This snippet adds clickable field with url in admin interface
